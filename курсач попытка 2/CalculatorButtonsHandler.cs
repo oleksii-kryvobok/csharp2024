@@ -146,7 +146,7 @@ namespace Calculator
                         return 0;
                     }
                     else return operand1 / operand2;
-                default: throw new InvalidOperationException("Invalid operator");
+                default: MessageBox.Show("Сталася помилка."); return 0;
             }
         }
 
@@ -172,7 +172,7 @@ namespace Calculator
                     return Math.PI;
                 case "e":
                     return Math.E;
-                default: throw new InvalidOperationException("Invalid function");
+                default: MessageBox.Show("Сталася помилка."); return 0;
             }
         }
 
