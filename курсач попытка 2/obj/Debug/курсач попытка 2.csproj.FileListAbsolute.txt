@@ -1,0 +1,11 @@
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач попытка 2.csproj.AssemblyReference.cache
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач попытка 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач_попытка_2.Properties.Resources.resources
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач попытка 2.csproj.GenerateResource.cache
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач попытка 2.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\bin\Debug\курсач попытка 2.exe.config
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\bin\Debug\курсач попытка 2.exe
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\bin\Debug\курсач попытка 2.pdb
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач попытка 2.exe
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\курсач попытка 2.pdb
+C:\Users\38067\source\repos\курсач попытка 2\курсач попытка 2\obj\Debug\Calculator.CalculatorForm.resources
